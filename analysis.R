@@ -20,6 +20,7 @@ library(ggplot2)
 library(readxl)
 
 # Loading the datasets
+
 wrlddata <- read_excel("C:/Users/Albin/Documents/GitHub/Covid-19-tweet-analysis/Covid Data1.xlsx")
 
 tweets= read_csv("C:/Users/Albin/Documents/GitHub/Covid-19-tweet-analysis/Covid-19 Twitter Dataset (Apr-Jun 2020).csv")
